@@ -2,77 +2,13 @@ this is my first text file
 this is my second text file
 hi rajesh
 testing again
-
+changing demo
 
 Demo
-D.RAJESH
-
-
+d.deepak
 
 Career Objective
 To be an integral part of an organization that gives me an opportunity to show my skills and improve my knowledge in the VLSI technology with the latest trends and to be a part of the team that works towards the growth of the organization
-
-Work Experience & Training
-
-	Physical Design Trainee from ULSI Training Institute, Bengaluru, using Mentor Graphics (NITRO) Tools from June 2018  to January 2019
-	Physical Verification Trainee from ULSI Training Institute, Bengaluru, using Mentor Graphics (CALIBRE)  Tools from February 2019 to May 2019
-
-
-Project Profile
-	Physical Design Trainee at ULSI, Bengaluru
-
-o	Worked on single core APU processor with following
-	Technology	: 45nm
-	Layers	: 10 Routing Layers
-	No. of Clocks	: 3 Clocks
-	Total Cells	: 15061
-	Target clock Frequency          : 416 MHz with 3 Clocks in Design
-	Voltage Domain                         :1
-	Tools Used	 : Nitro – MENTOR GRAPHICS
-
-	PROJECT DESCRIPTION
-
-	Data preparation: Imported Verilog netlist, Read SDC,TECH Files,LEF and libraries
-	Perform Sanity Checks
-	Floorplan: Used source file for IO Port locations and Boundary. Provided core to IO boundary, Placed Macros and fixed Macros and IO ports. Derived PG Connection, created power straps for nets VDD, VSS and pre-route standard cell rails, performed Cut rows near Macros, added End-Cap cells, Tap cells and set attribute fixed, Created placement blockages
-	Placement: Inserted buffers for all IO ports. Created placement and legalized placement and Verified GRC, Cell Density, Pin Density, Module Placement, Placement Utilization. Congestion reports & Timing reports are done, Pre-CTS optimization
-	CTS: Defined the Routing rules width and spacing, applied routing rule to clock nets, performed timing optimization, CTO buffers used for optimization
-	Routing: Defined Routing layers, Global route, Track assignment, Detailed route, Route Optimization. Verified Congestion, Timing and  QoR.
-	Performed DRC Fixes (Shorts & Opens)
-
-
-
-
-	Physical Verification Trainee at ULSI, Bengaluru
-
-o	Using Calibre nmDRC:- 
-1.	Setup & run Calibre nmDRC
-2.	Re-run & check DRC Results
-3.	Correct errors in the layout & Run DRC on the new layout
-4.	Select Rule Checks by Layer
-5.	Run DRC on a Selected Area
-6.	Run DRC Hierarchical versus Flat & Display results in Different ways & correct Errors
-7.	Working with Fixed and Waived Results
-8.	Using Properties
-9.	Comparing Layout versions with DBdiff
-10.	Creating a GDSII Plot File
-11.	Incremental DRC complete Flow
-
-o	 Using Calibre nmLVS:-
-1.	Setup & run Calibre nmLVS
-2.	Introduction to Calibre nmLVS
-3.	Working with Text & Connectivity
-4.	Troubleshooting Shorts & Opens
-5.	Troubleshooting Device Problems
-6.	Antennas & Electrical Rule Checks
-
-Technical Skills
-
-•	Good Knowledge on VLSI concepts and Tool based experience of Physical Design in Nitro
-•	Good knowledge of VLSI Fundamentals, CMOS basics, Digital design concepts
-•	Good knowledge in ASIC Design Flow
-•	Good knowledge of Floor planning, Power planning, Placement, Clock Tree Synthesis, Routing, Timing Analysis and Optimization
-•	Good Knowledge on  Physical verification (DRC,LVS)
 
 Academic Details
 
